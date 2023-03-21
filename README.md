@@ -1,2 +1,3 @@
-# cisw31-git
-A test repository for CISW31
+# Hello CISW 31
+
+Congratulations, your git is working.
