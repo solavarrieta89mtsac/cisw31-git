@@ -1,3 +1,3 @@
-# Hello CISW 31
+# Hello CISW Students 
 
 Congratulations, your git is working.
